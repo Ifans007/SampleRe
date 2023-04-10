@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="post_list_error_load_posts">Failed to load the list of posts</string>
+</resources>
